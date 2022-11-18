@@ -708,14 +708,10 @@ li {
   z-index: 100;
   width: 8%;
   opacity: 0.84;
-  -webkit-transform: rotate(25deg);
-  -ms-transform: rotate(25deg);
-  transform: rotate(25deg);
 }
 
 .image-5.last.smiley:hover {
   z-index: 10000;
-  width: 9%;
 }
 
 .image-5.last.small-circle {
